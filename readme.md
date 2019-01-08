@@ -2,6 +2,7 @@
 
 ## Disclosure
 * 15/12/2018 - Initial disclosure email sent to `support@overwolf.com`
+* 24/12/2018 - Overwolf identified the issue and are in remediation phase
 
 
 
