@@ -4,6 +4,7 @@
 * 15/12/2018 - Initial disclosure email sent to `support@overwolf.com`
 * 24/12/2018 - Overwolf identified the issue and are in remediation phase
 * 8/1/2019   - This should be patched in v122
+* 6/2/2019   - This was patched and released in Overwolf Version 122
 
 
 
