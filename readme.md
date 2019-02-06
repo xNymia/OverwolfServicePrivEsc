@@ -1,4 +1,4 @@
-# Privilege escalation via Overwolf service
+# Local Privilege escalation via Overwolf service
 
 ## Disclosure
 * 2018/12/15 - Initial disclosure email sent to `support@overwolf.com`
@@ -6,7 +6,9 @@
 * 2019/1/8   - This should be patched in v122
 * 2019/1/n   - Overwolf release version 122 with fix included
 * 2019/2/6   - Tested and confirmed fixed
+* 2019/2/6   - Public Disclosure.
 
+Overwolf were a pleasure to work with in resolving this, thank you to 'LEOkonami' for being a very helpful point of contact!
 
 
 ## Summary 
